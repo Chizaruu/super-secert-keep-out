@@ -4,7 +4,7 @@ Hey there! You've stumbled upon the super cool and top-secret repository known a
 
 ## About KoalaHollow 🌴
 
-**[KoalaHollow](koalahollow.com)** is not your average website—it's a treasure trove of educational tutorials, captivating games, powerful tools, and awe-inspiring projects! Our mission is to provide you with a delightful experience that combines learning, entertainment, and creativity all in one cozy hollow.
+**[KoalaHollow](https://koalahollow.com)** is not your average website—it's a treasure trove of educational tutorials, captivating games, powerful tools, and awe-inspiring projects! Our mission is to provide you with a delightful experience that combines learning, entertainment, and creativity all in one cozy hollow.
 
 ## Repository Watchers 👥
 
